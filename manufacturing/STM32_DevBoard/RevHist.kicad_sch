@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "STM32-DevBoard")
+    (date "2023-08-20")
+    (rev "R0")
+    (company "s-grundner")
+  )
+
   (lib_symbols
   )
 
