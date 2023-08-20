@@ -17,3 +17,13 @@ build
 sdkconfig.*
 c_cpp_properties.json
 .fake
+
+# Eclipse
+.metadata
+.settings
+
+# Kicad
+*.kicad_prl
+fp-info-cache
+manufacturing/STM32_DevBoard/STM32_DevBoard-backups/*
+manufacturing/STM32_DevBoard/*.log
