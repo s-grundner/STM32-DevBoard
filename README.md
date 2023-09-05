@@ -2,6 +2,8 @@
 
 With onboard Temp/Humidity Sensor and IMU
 
+Primary goal is to use components I have stock
+
 ## Repository Structure
 
 ### [Documentation](/documentation/)
