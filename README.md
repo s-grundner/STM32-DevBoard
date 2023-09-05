@@ -1,3 +1,13 @@
-# Project-Launcher
+# STM32 Devboard
 
-Template repository for electronics projects
+With onboard Temp/Humidity Sensor and IMU
+
+## Repository Structure
+
+### [Documentation](/documentation/)
+
+### [Manufacturing](/manufacturing/)
+
+### [Simulations](/simulations/)
+
+### [Source Code](/source/)
